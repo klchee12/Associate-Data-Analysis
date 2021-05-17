@@ -20,10 +20,10 @@
 ### Category Name 2
 
 - [Capstone 1](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Dashboard%201.xlsx)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Capstone 2](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Dashboard%202.pdf)
+- [Capstone 3](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Capstone3%20project.pbix)
+- [Capstone 4](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Capstone%204.pdf)
+- [Summative Capstone](http://example.com/)
 
 ---
 
