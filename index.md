@@ -1,22 +1,5 @@
 ## Portfolio
 
----
-
-### Category Name 1 
-
-[Capstone 1](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
 ### Category Name 2
 
 - [Capstone 1](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Dashboard%201.xlsx)
