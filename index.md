@@ -1,6 +1,5 @@
 ## Portfolio
 
-### Category Name 2
 
 - [Capstone 1](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Dashboard%201.xlsx)
 - [Capstone 2](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Dashboard%202.pdf)
