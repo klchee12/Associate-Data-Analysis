@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Capstone 1](http://example.com/)
+- [Capstone 1](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Presentation.xlsx)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
