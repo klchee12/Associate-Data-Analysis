@@ -5,7 +5,7 @@
 - [Capstone 2](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Dashboard%202.pdf)
 - [Capstone 3](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Capstone3%20project.pbix)
 - [Capstone 4](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Capstone%204.pdf)
-- [Summative Capstone](http://example.com/)
+- [Summative Capstone](https://github.com/klchee12/Associate-Data-Analysis/blob/master/Summative%20Project.pbix)
 
 ---
 
